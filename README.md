@@ -5,19 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Developing Jamilpress, A new Cms based on php
-- 🌱 I’m currently learning Cloud computing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with cloud hosting
+- 🔭 I’m currently working on Developing Jamilx, A PHP Web Application Framework
+- 🌱 I’m currently learning React/MUI
+- 👯 I’m looking to collaborate on my project JamilX
+- 🤔 I’m looking for help with Hosting JamilX Official Website
 - 💬 Ask me about anything
 - 📫 How to reach me: +2349011050365, myakububauchi@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on Developing Jamilpress, A new Cms based on php
- 🌱 I’m currently learning Cloud computing<br />
- 👯 I’m looking to collaborate on ...<br />
- 🤔 I’m looking for help with cloud hosting<br />
+## 🔭 I’m currently working on Developing Jamilx, A PHP Web Application Framework
+ 🌱 I’m currently learning React/MUI<br />
+ 👯 I’m looking for contribution on my project JamilX<br />
+ 🤔 I’m looking for Donation to Host JamilX Official Website<br />
  💬 Ask me about anything<br />
  📫 How to reach me: +2349011050365, myakububauchi@gmail.com<br />
