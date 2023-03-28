@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on Developing Jamilx, A PHP Web Application Framework
- 🌱 I’m currently learning React/MUI<br />
+ 🌱 I’m currently learning  Data Science<br />
  👯 I’m looking for contribution on my project JamilX<br />
  🤔 I’m looking for Donation to Host JamilX Official Website<br />
  💬 Ask me about anything<br />
