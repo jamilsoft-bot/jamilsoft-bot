@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Developing Jamilx, A PHP Web Application Framework
-- 🌱 I’m currently learning React/MUI
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on my project JamilX
 - 🤔 I’m looking for help with Hosting JamilX Official Website
 - 💬 Ask me about anything
